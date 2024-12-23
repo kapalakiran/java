@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7a9a6ff-3b77-4344-a35f-1208f8e29c18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/streams/Java8_Exercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/streams/Java8_Exercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/streams/JavaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/streams/Java_BehaviorParameterization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/java/streams/Java8_Exercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/java/streams/Java8_Exercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/java/streams/Java8_Exercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/java/streams/Java8_Exercise02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,10 @@
     "Gradle.sample [:Java8_Comparator02.main()].executor": "Debug",
     "Gradle.sample [:Java8_Exercise01.main()].executor": "Run",
     "Gradle.sample [:Java8_Exercise02.main()].executor": "Run",
+    "Gradle.sample [:Java8_Exercise03.main()].executor": "Run",
     "Gradle.sample [:Java8_LambdaExpression.main()].executor": "Run",
+    "Gradle.sample [:JavaTest01.main()].executor": "Run",
+    "Gradle.sample [:Java_BehaviorParameterization.main()].executor": "Run",
     "Gradle.sample [:Java_Streams01.main()].executor": "Run",
     "Gradle.sample [:Main.main()].executor": "Run",
     "Gradle.sample [:MergeSortedArray.main()].executor": "Debug",
@@ -59,7 +64,7 @@
     "onboarding.tips.debug.path": "/Users/kirankumar/Documents/automation/sample/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Java8_Exercise02">
+  <component name="RunManager" selected="Application.Java_BehaviorParameterization">
     <configuration name="Java8_Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.java.streams.Java8_Exercise01" />
       <module name="sample.main" />
@@ -86,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_Streams01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java_Streams01" />
+    <configuration name="Java8_Exercise03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.streams.Java8_Exercise03" />
       <module name="sample.main" />
       <extension name="coverage">
         <pattern>
@@ -99,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaprograms.MergeSortedArray" />
+    <configuration name="JavaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.streams.JavaTest01" />
       <module name="sample.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaprograms.*" />
+          <option name="PATTERN" value="org.java.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderlineInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.UnderlineInteger" />
+    <configuration name="Java_BehaviorParameterization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.streams.Java_BehaviorParameterization" />
       <module name="sample.main" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java_BehaviorParameterization" />
+        <item itemvalue="Application.Java8_Exercise03" />
+        <item itemvalue="Application.JavaTest01" />
         <item itemvalue="Application.Java8_Exercise02" />
         <item itemvalue="Application.Java8_Exercise01" />
-        <item itemvalue="Application.Java_Streams01" />
-        <item itemvalue="Application.MergeSortedArray" />
-        <item itemvalue="Application.UnderlineInteger" />
       </list>
     </recent_temporary>
   </component>

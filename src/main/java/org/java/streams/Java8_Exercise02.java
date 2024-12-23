@@ -36,7 +36,6 @@ public class Java8_Exercise02 {
         System.out.println(createListWithDoubleValue(List.of(2,34,1,1,2)));
         System.out.println(createListWithEvenNumbersFiltered(List.of(2,34,1,1,2)));
         System.out.println(createListWithLengthOfAllCourse(List.of("BioR","Phy","SST","TY")));
-
     }
 
     private static  List<Integer> createListWithLengthOfAllCourse(List<String> bioR) {
